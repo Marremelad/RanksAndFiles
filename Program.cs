@@ -24,6 +24,7 @@
                     Console.WriteLine();
                 }
             } while (!isNumber);
+            Console.WriteLine("Hello, World haha!");
         }
     }
 }
